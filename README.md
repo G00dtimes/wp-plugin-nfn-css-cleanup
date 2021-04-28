@@ -1,4 +1,4 @@
-# wp-plugin-wordpress-base
+# wp-plugin-nfn-css-cleanup
 A WordPress plugin that handles HTML cleanup.
 
 # Installation
