@@ -1,0 +1,15 @@
+{
+    "name": "G00dtimes/wp-plugin-nfn-css-cleanup",
+    "description": "A plugin that handles CSS cleanup.",
+    "type": "wordpress-plugin",
+    "authors": [
+      {
+        "name": "NFN, Inc",
+        "email": "nikfr80s@gmail.com"
+      }
+    ],
+    "extra": {
+      "installer-name": "sqm-css-cleanup"
+    }
+  }
+  
